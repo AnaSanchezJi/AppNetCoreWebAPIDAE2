@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppNetCoreWebAPIDAE2", "AppNetCoreWebAPIDAE2\AppNetCoreWebAPIDAE2.csproj", "{2A3CFC88-F818-4872-AA19-E5C212D04AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3CFC88-F818-4872-AA19-E5C212D04AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3CFC88-F818-4872-AA19-E5C212D04AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3CFC88-F818-4872-AA19-E5C212D04AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3CFC88-F818-4872-AA19-E5C212D04AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A1B32F-F1C7-4C15-BFD6-E2B17C851A76}
+	EndGlobalSection
+EndGlobal
